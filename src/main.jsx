@@ -13,8 +13,8 @@ import store from './Redux/slice'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
         <BrowserRouter>
-          <App />
-          <Toaster />
+            <App />
+            <Toaster />
         </BrowserRouter>
   </Provider>
 )
