@@ -3,7 +3,11 @@ import './App.css'
 function App() {
 
   return (
-    <>lms</>
+    <>
+      <Routes>
+        <Route ></Route>
+      </Routes>
+    </>
   )
 }
 
